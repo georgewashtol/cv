@@ -1,19 +1,36 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Accenture
+  position: Cloud Tech Architect Delivery Senior Analyst
+  duration: February 2022 — Present
+  summary: Responsible for AWS Cloud products access, technology decisions, and infrastructure management using Terraform and CI/CD with Gitlab and Azure DevOps.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Ceiba Software
+  position: Developer Architect
+  duration: December 2020 — October 2021
+  summary: Developed solutions on Azure, including serverless functions, blob storage, NoSQL databases, and deep learning models deployment.
 
+- company: TOLBAR Technology
+  position: Software Developer
+  duration: June 2019 — Present
+  summary: Full stack developer on a school management system, handling Angular for the front end, Java for the back end, and MySQL.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Tecnologías Sinergia S.A.S
+  position: Senior Programmer and SRE
+  duration: January 2020 — December 2020
+  summary: Led development on ERP projects and managed AWS infrastructure.
+
+- company: Universidad Surcolombiana
+  position: Software Developer
+  duration: October 2019 — December 2019
+  summary: Built a centralized file management service on Java and SQL Server.
+
+- company: THE MAKERS
+  position: Developer and SRE
+  duration: February 2019 — October 2019
+  summary: Migrated infrastructure to AWS and implemented CI/CD pipelines for Laravel and Angular projects.
+
+- company: ELECTRIFICADORA DEL HUILA
+  position: Developer Trainee SENA
+  duration: January 2018 — July 2018
+  summary: Developed inventory management software using Java and AngularJS.

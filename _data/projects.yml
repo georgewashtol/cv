@@ -1,16 +1,22 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Deep Learning Model Deployment
+  role: Developer Architect
+  duration: 2021
+  description: Deployment of deep learning models for image labeling using Azure services.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: School Management System
+  role: Software Developer
+  duration: 2019 — Present
+  description: Full stack system for school and automotive education management, including user roles, certificates, and PDF generation.
+
+- project: Centralized File Management System
+  role: Software Developer
+  duration: 2019
+  description: Developed for Universidad Surcolombiana using Java and SQL Server.
+
+- project: ERP System for Health and Education
+  role: Senior Programmer and SRE
+  duration: 2020
+  description: Full stack ERP project on AWS for education and health sector clients.

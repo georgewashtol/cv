@@ -1,12 +1,10 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Cloud Computing (AWS, Azure)
+  description: Proficient in AWS services like EC2, S3, Lambda, and Azure serverless and infrastructure solutions.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: DevOps & CI/CD
+  description: Skilled in Jenkins, GitLab CI/CD, Docker, Kubernetes, and Terraform for CI/CD pipelines and automation.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Full Stack Development
+  description: Experienced in Java, Spring Boot, Angular, and Node.js, with focus on backend and frontend integration.
