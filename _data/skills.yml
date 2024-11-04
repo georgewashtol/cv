@@ -1,10 +1,13 @@
 # Skills
 # Organizational leadership
 - skill: Cloud Computing (AWS, Azure)
-  description: Proficient in AWS services like EC2, S3, Lambda, and Azure serverless and infrastructure solutions.
+  description: Experiencia en EC2, S3, Lambda, AKS, ACR, y Terraform para soluciones escalables y seguras en la nube.
 
 - skill: DevOps & CI/CD
-  description: Skilled in Jenkins, GitLab CI/CD, Docker, Kubernetes, and Terraform for CI/CD pipelines and automation.
+  description: Implementación de pipelines en Jenkins, GitLab, Docker, y Kubernetes.
 
 - skill: Full Stack Development
-  description: Experienced in Java, Spring Boot, Angular, and Node.js, with focus on backend and frontend integration.
+  description: Conocimientos en Java, Spring Boot, Angular y Node.js.
+
+- skill: Languages
+  description: English (B2), Spanish (Native)

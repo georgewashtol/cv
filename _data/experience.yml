@@ -1,36 +1,41 @@
 # Jobs
 # VP of Global Communications
+- company: Praxis
+  position: Senior Cloud Developer
+  duration: October 2024 — Present
+  summary: Optimización de aplicaciones en la nube, diseño de soluciones escalables y seguras, revisión de código y mentoría en prácticas de desarrollo cloud.
+
 - company: Accenture
-  position: Cloud Tech Architect Delivery Senior Analyst
-  duration: February 2022 — Present
-  summary: Responsible for AWS Cloud products access, technology decisions, and infrastructure management using Terraform and CI/CD with Gitlab and Azure DevOps.
+  position: Cloud Engineer
+  duration: February 2022 — October 2024
+  summary: Migración a Azure Cloud, uso de Terraform, Gitlab CI/CD y Azure DevOps. Implementación de soluciones en AWS (EC2, Lambda, RDS, etc.).
 
 - company: Ceiba Software
   position: Developer Architect
   duration: December 2020 — October 2021
-  summary: Developed solutions on Azure, including serverless functions, blob storage, NoSQL databases, and deep learning models deployment.
+  summary: Despliegue de modelos de deep learning y soluciones Azure con arquitectura hexagonal en proyectos académicos y empresariales.
 
 - company: TOLBAR Technology
-  position: Software Developer
-  duration: June 2019 — Present
-  summary: Full stack developer on a school management system, handling Angular for the front end, Java for the back end, and MySQL.
+  position: Full Stack Developer
+  duration: June 2019 — December 2019
+  summary: Desarrollo de front end en Angular y back end en Java, generando certificados y gestionando usuarios en sistema educativo.
 
 - company: Tecnologías Sinergia S.A.S
-  position: Senior Programmer and SRE
+  position: Full Stack Developer & Cloud Engineer
   duration: January 2020 — December 2020
-  summary: Led development on ERP projects and managed AWS infrastructure.
+  summary: Desarrollador de ERP con Angular y PHP en Laravel, implementando AWS y DevOps.
 
 - company: Universidad Surcolombiana
   position: Software Developer
-  duration: October 2019 — December 2019
-  summary: Built a centralized file management service on Java and SQL Server.
+  duration: November 2019 — December 2019
+  summary: Implementación de servicio de gestión de archivos en Java y SQL Server.
 
 - company: THE MAKERS
-  position: Developer and SRE
-  duration: February 2019 — October 2019
-  summary: Migrated infrastructure to AWS and implemented CI/CD pipelines for Laravel and Angular projects.
+  position: AWS DevOps Engineer
+  duration: July 2019 — October 2019
+  summary: Migración de infraestructura a AWS y CI/CD en Laravel y Angular.
 
-- company: ELECTRIFICADORA DEL HUILA
-  position: Developer Trainee SENA
+- company: ElectroHuila
+  position: Full Stack Developer (Internship)
   duration: January 2018 — July 2018
-  summary: Developed inventory management software using Java and AngularJS.
+  summary: Desarrollo de software de inventario con Java y AngularJS en ElectroHuila.
